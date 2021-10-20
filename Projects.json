@@ -1,0 +1,24 @@
+[
+  {
+    "id": "tg_pj_pi_room_temperature",
+    "title": "Pi - Check room temperature",
+    "modal": false,
+    "content": "For detect room temperature used in Pi 3 ModelB.",
+    "preview_image": "https://hackster.imgix.net/uploads/attachments/779321/blob_3Cv4SWE3ln.blob?auto=compress%2Cformat&w=900&h=675&fit=min",
+    "image":
+    [
+      "https://hackster.imgix.net/uploads/attachments/779329/8903c2a5-9483-4648-b8c8-ec832f05012c_qG5GuBSF2i.jpg?auto=compress%2Cformat&w=680&h=510&fit=max",
+      "https://hackster.imgix.net/uploads/attachments/779330/1860be3a-0282-44c3-be9f-bdbefed75e2f_5XRmjyqwRO.jpg?auto=compress%2Cformat&w=680&h=510&fit=max",
+      "https://hackster.imgix.net/uploads/attachments/779332/3af1259c-4d54-44c2-95ee-517ee734c601_5OqOXQnCbk.jpg?auto=compress%2Cformat&w=680&h=510&fit=max"
+    ],
+    "tag":
+    [
+      "Raspberry Pi",
+      "Telegram Bot",
+      "Smarthome",
+      "NodeJS"
+    ],
+    "project_date": "Aug 2021",
+    "weeks": 2
+  }
+]
