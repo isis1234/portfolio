@@ -570,7 +570,8 @@ p.has-drop-cap:not(:focus):first-letter {
 }
 
 .portfolio-list .portfolio-item .entry-content-wrapper {
-  background-color: #ffffff;
+  /*background-color: #ffffff;*/
+  background-color: #9993;
   position: absolute;
   bottom: 80px;
   left: 50%;

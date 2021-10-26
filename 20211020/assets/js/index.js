@@ -6,6 +6,7 @@ function getProject(){
     url: "https://raw.githubusercontent.com/isis1234/portfolio/master/Projects.json",
   })
   .done(function( data ) {
+    console.log(data)
     projects = JSON.parse(data)
     projects = projects.sort(function (a, b) {
       return b.project_date - a.project_date
