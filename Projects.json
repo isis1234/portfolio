@@ -18,7 +18,26 @@
       "Smarthome",
       "NodeJS"
     ],
-    "project_date": "Aug 2021",
+    "project_date": 202108,
     "weeks": 2
+  },
+  {
+    "id": "pj_self_porfolio_v1",
+    "title": "Self Porfolio(Old Version)",
+    "modal": false,
+    "content": "My first portfolio which using vue template😃.",
+    "preview_image": "https://github.com/isis1234/portfolio/blob/master/Image/SelfPortfolio/1.png?raw=true",
+    "image": 
+    [
+      "https://github.com/isis1234/portfolio/blob/master/Image/SelfPortfolio/1.png?raw=true"
+    ],
+    "tag":
+    [
+      "Vue", "MATERIAL"
+    ],
+    "project_date": 202008,
+    "weeks": 2,
+    "github": "https://github.com/isis1234/isis1234_portfolio",
+    "demo": "https://isis1234.github.io/isis1234_portfolio/"
   }
 ]
