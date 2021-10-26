@@ -1,5 +1,5 @@
 [
-  {
+  { // tg_pj_pi_room_temperature
     "id": "tg_pj_pi_room_temperature",
     "title": "Pi - Check room temperature",
     "modal": false,
@@ -21,9 +21,9 @@
     "project_date": 202108,
     "weeks": 2
   },
-  {
+  { // pj_self_porfolio_v1
     "id": "pj_self_porfolio_v1",
-    "title": "Self Porfolio(Old Version)",
+    "title": "Self Porfolio (Old Version)",
     "modal": false,
     "content": "My first portfolio which using vue template😃.",
     "preview_image": "https://github.com/isis1234/portfolio/blob/master/Image/SelfPortfolio/1.png?raw=true",
@@ -40,5 +40,27 @@
     "weeks": 2,
     "github": "https://github.com/isis1234/isis1234_portfolio",
     "demo": "https://isis1234.github.io/isis1234_portfolio/"
+  },
+  { // pj_yuyu_telegram_bot
+    "id": "pj_yuyu_telegram_bot",
+    "title": "Yu Telegram Bot",
+    "modal": false,
+    "content": "A reservation bot for remind you have a sit in the restaurant.",
+    "preview_image": "https://github.com/isis1234/portfolio/blob/master/Image/YuyuTelegramBot/1.png?raw=true",
+    "image":
+    [
+      "https://github.com/isis1234/portfolio/blob/master/Image/YuyuTelegramBot/1.png?raw=true",
+      "https://github.com/isis1234/portfolio/blob/master/Image/YuyuTelegramBot/2.png?raw=true",
+      "https://github.com/isis1234/portfolio/blob/master/Image/YuyuTelegramBot/3.png?raw=true"
+    ],
+    "tag":
+    [
+      "NodeJS",
+      "Telegram Bot"
+    ],
+    "project_date": 202010,
+    "weeks": 2,
+    "github": "https://github.com/isis1234/yuyu_telegram_bot",
+    "demo": "https://telegram.me/yuyu_test_bot"
   }
 ]
