@@ -77,10 +77,33 @@
     ],
     "tag":
     [
-      "3D Art", "tinkercad"
+      "3D Art",
+      "tinkercad"
     ],
     "project_date": 202002,
     "weeks": 2,
     "demo": "https://www.tinkercad.com/dashboard?type=tinkercad&collection=projects&id=7M41HrLPyzt"
+  },
+  {
+    "id": "pj_MSDisplayAdapterE6",
+    "title": "MSDisplayAdapter_E6",
+    "modal": false,
+    "content": "A script that auto start wireless projecter when i turnon my laptop.",
+    "preview_image": "https://github.com/isis1234/portfolio/blob/master/Image/MSDisplayAdapter_E6/1.gif?raw=true",
+    "image":
+    [
+      "https://github.com/isis1234/portfolio/blob/master/Image/MSDisplayAdapter_E6/1.gif?raw=true"
+    ],
+    "tag":
+    [
+      "Python",
+      "Bat",
+      "Window10",
+      "Sony MP-CD1"
+    ],
+    "project_date": 201912,
+    "weeks": 1,
+    "demo": "https://www.tinkercad.com/dashboard?type=tinkercad&collection=projects&id=7M41HrLPyzt",
+    "github": "https://github.com/isis1234/MSDisplayAdapter_E6"
   }
 ]
