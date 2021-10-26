@@ -105,5 +105,27 @@
     "weeks": 1,
     "demo": "https://www.tinkercad.com/dashboard?type=tinkercad&collection=projects&id=7M41HrLPyzt",
     "github": "https://github.com/isis1234/MSDisplayAdapter_E6"
+  },
+  {
+    "id": "pj_the_forest",
+    "title": "YouTube Video Log",
+    "modal": false,
+    "content": "A youtube game log about the game and me and my friends :).",
+    "preview_image": "https://i.ytimg.com/vi/Qucz1EUeKwM/hqdefault.jpg",
+    "image":
+    [
+      "https://i.ytimg.com/vi/Qucz1EUeKwM/hqdefault.jpg"
+    ],
+    "tag":
+    [
+      "Youtube",
+      "OBS",
+      "VSDC",
+      "Discord",
+      "The Forest"
+    ],
+    "project_date": 201904,
+    "weeks": 1,
+    "demo": "https://www.youtube.com/watch?v=Qucz1EUeKwM"
   }
 ]
