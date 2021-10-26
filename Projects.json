@@ -1,5 +1,5 @@
 [
-  { // tg_pj_pi_room_temperature
+  {
     "id": "tg_pj_pi_room_temperature",
     "title": "Pi - Check room temperature",
     "modal": false,
@@ -21,7 +21,7 @@
     "project_date": 202108,
     "weeks": 2
   },
-  { // pj_self_porfolio_v1
+  {
     "id": "pj_self_porfolio_v1",
     "title": "Self Porfolio (Old Version)",
     "modal": false,
@@ -41,7 +41,7 @@
     "github": "https://github.com/isis1234/isis1234_portfolio",
     "demo": "https://isis1234.github.io/isis1234_portfolio/"
   },
-  { // pj_yuyu_telegram_bot
+  {
     "id": "pj_yuyu_telegram_bot",
     "title": "Yu Telegram Bot",
     "modal": false,
