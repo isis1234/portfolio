@@ -8,8 +8,10 @@ function getProject(){
   .done(function( data ) {
     projects = JSON.parse(data)
     projects = projects.sort(function (a, b) {
-      return a.project_date.localeCompare(b.project_date)
+      return b.project_date - a.project_date
+      // return a.project_date.localeCompare(b.project_date)
     })
+    console.log(projects)
 
     // Recent Project 1
     let project_1 = projects[0]
