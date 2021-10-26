@@ -27,13 +27,14 @@
     "modal": false,
     "content": "My first portfolio which using vue template😃.",
     "preview_image": "https://github.com/isis1234/portfolio/blob/master/Image/SelfPortfolio/1.png?raw=true",
-    "image": 
+    "image":
     [
       "https://github.com/isis1234/portfolio/blob/master/Image/SelfPortfolio/1.png?raw=true"
     ],
     "tag":
     [
-      "Vue", "MATERIAL"
+      "Vue",
+      "MATERIAL"
     ],
     "project_date": 202008,
     "weeks": 2,
