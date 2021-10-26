@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Graduated from CUHK",
+    "bachelor": "Bachelor of Engineering",
+    "major": "Major in Computer Engineering",
+    "website": "https://www.cuhk.edu.hk/",
+    "graduated_date": 201805
+  },
+  {
+    "name": "Graduated from IVE (Tsing Yi)",
+    "bachelor": "Bachelor of Engineering",
+    "major": "Major in Computer Engineering",
+    "website": "https://www.ive.edu.hk/ivesite/html/en/aboutive.html",
+    "graduated_date": 201405
+  }
+]

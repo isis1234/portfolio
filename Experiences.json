@@ -1,0 +1,23 @@
+[
+  {
+    "company": "Sonivy Technology Limited",
+    "preview_image": "https://isis1234.github.io/portfolio/Image/experiences/sonivy.png",
+    "content": "You can write here details about one of your team members. You can give more details about what they do. You can write here details about one of your team members. You can give more details about what they do.",
+    "start_date": 201704,
+    "facebook": "https://www.facebook.com/SonivyTechnologyLimited/",
+    "linkedin": "https://www.linkedin.com/company/sonivy-technology-limited/",
+    "email": "https://isis1234.github.io/isis1234_portfolio/info@sonivy.com",
+    "website": "https://www.sonivy.com/"
+  },
+  {
+    "company": "GTI",
+    "preview_image": "https://isis1234.github.io/portfolio/Image/experiences/git.png",
+    "content": "You can write here details about one of your team members. You can give more details about what they do. You can write here details about one of your team members. You can give more details about what they do.",
+    "start_date": 201506,
+    "end_date": 201607,
+    "facebook": "https://www.facebook.com/GTIhongkong/",
+    "linkedin": "https://www.linkedin.com/company/gti-ltd",
+    "email": "https://isis1234.github.io/isis1234_portfolio/inquiry@gti.com.hk",
+    "website": "https://www.gti.com.hk/"
+  }
+]

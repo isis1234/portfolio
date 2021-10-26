@@ -1,0 +1,37 @@
+[
+  {
+    "name": "NodeJS",
+    "tag":[
+      "I18N", "Socket I/O", "Redis", "Express", "Fastify", "Firebase", "Axios", "Cron Job", "Stripe"
+    ],
+    "preview_image": "https://isis1234.github.io/portfolio/Image/skills/nodejs.png"
+  },
+  {
+    "name": "Telegram Bot",
+    "tag":[
+      "Voice", "Games", "Reply Keyboard", "Image", "Control Access", "Payments"
+    ],
+    "preview_image": "https://isis1234.github.io/portfolio/Image/skills/telegram_bot.png"
+  },
+  {
+    "name": "Blockchain",
+    "tag":[
+      "BTC Node", "Public Address", "ERC20", "NFT"
+    ],
+    "preview_image": "https://isis1234.github.io/portfolio/Image/skills/blockchain.png"
+  },
+  {
+    "name": "AWS Service",
+    "tag":[
+      "EC2", "S3", "DynamoDB", "RDS", "Lambda", "SNS", "SES", "Polly", "IOT CORE", "API GATEWAY", "IAM"
+    ],
+    "preview_image": "https://isis1234.github.io/portfolio/Image/skills/aws.png"
+  },
+  {
+    "name": "Arduino",
+    "tag":[
+      "WIFI ESP8266", "Big Data", "Robot Car", "Home Security"
+    ],
+    "preview_image": "https://isis1234.github.io/portfolio/Image/skills/aws.png"
+  }
+]
