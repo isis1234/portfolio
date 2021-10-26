@@ -62,5 +62,25 @@
     "weeks": 2,
     "github": "https://github.com/isis1234/yuyu_telegram_bot",
     "demo": "https://telegram.me/yuyu_test_bot"
+  },
+  {
+    "id": "pj_projector_3d_art",
+    "title": "SONY Mobile Projector MP-CD1 Protector Part.1",
+    "modal": false,
+    "content": "A set 3d module. Part 1 for protect the projector, Part 2 for turn projector to 5, 10, 15 degree.",
+    "preview_image": "https://github.com/isis1234/portfolio/blob/master/Image/Project3Dmodule/preview.gif?raw=true",
+    "image":
+    [
+      "https://github.com/isis1234/portfolio/blob/master/Image/Project3Dmodule/preview.gif?raw=true",
+      "https://github.com/isis1234/portfolio/blob/master/Image/Project3Dmodule/2.png?raw=true",
+      "https://github.com/isis1234/portfolio/blob/master/Image/Project3Dmodule/3.png?raw=true"
+    ],
+    "tag":
+    [
+      "3D Art", "tinkercad"
+    ],
+    "project_date": 202002,
+    "weeks": 2,
+    "demo": "https://www.tinkercad.com/dashboard?type=tinkercad&collection=projects&id=7M41HrLPyzt"
   }
 ]
