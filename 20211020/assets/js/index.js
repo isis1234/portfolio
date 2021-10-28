@@ -1,4 +1,5 @@
-let projects = []
+getProject()
+getSkill()
 
 function getProject(){
   $.ajax({
@@ -6,13 +7,10 @@ function getProject(){
     url: "https://raw.githubusercontent.com/isis1234/portfolio/master/Projects.json",
   })
   .done(function( data ) {
-    console.log(data)
-    projects = JSON.parse(data)
+    let projects = JSON.parse(data)
     projects = projects.sort(function (a, b) {
       return b.project_date - a.project_date
-      // return a.project_date.localeCompare(b.project_date)
     })
-    console.log(projects)
 
     // Recent Project 1
     let project_1 = projects[0]
@@ -52,5 +50,19 @@ function getProject(){
 
     // Set view more project
     $("#view_more_project").attr('hidden', !(projects.length > 4))
+  })
+}
+
+function getSkill(){
+  $.ajax({
+    method: "GET",
+    url: "https://raw.githubusercontent.com/isis1234/portfolio/master/Skills.json",
+  })
+  .done(function( data ) {
+    let skills = JSON.parse(data)
+    skills = skills.sort(function (a, b) {
+      return b.tag.length - a.tag.length
+    })
+    console.log(skills)
   })
 }
