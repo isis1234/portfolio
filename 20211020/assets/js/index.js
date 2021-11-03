@@ -1,5 +1,6 @@
 getProject()
 getSkill()
+getEducation()
 
 function getProject(){
   $.ajax({
@@ -65,4 +66,7 @@ function getSkill(){
     })
     console.log(skills)
   })
+}
+
+function getEducation(){
 }
